@@ -2,14 +2,16 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import tailwind from '@astrojs/tailwind';
+import starlightBlog from 'starlight-blog';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Docs with Tailwind',
+			plugins: [starlightBlog()],
+			title: 'Collaborative Sparks',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/CollaborativeSparks',
 			},
 			sidebar: [
 				{
@@ -23,6 +25,7 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				{ label: 'Resource Article Blog', link: '/blog/' },
 			],
 			customCss: ['./src/tailwind.css'],
 		}),
