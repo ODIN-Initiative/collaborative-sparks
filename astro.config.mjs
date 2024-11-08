@@ -31,8 +31,9 @@ export default defineConfig({
 		}),
 		tailwind({ applyBaseStyles: false }),
 	],
-	site: 'https://ODIN-Initiative.github.io/collaborative-sparks-website/', // Replace with your GitHub repo URL
+	site: 'https://odin-initiative.github.io/collaborative-sparks-website', // Replace with your GitHub repo URL
 	output: 'static',  // Ensure it builds static assets
 });
+
 
 
