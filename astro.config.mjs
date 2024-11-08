@@ -6,6 +6,7 @@ import starlightBlog from 'starlight-blog';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://odin-initiative.github.io/collaborative-sparks-website',
 	integrations: [
 		starlight({
 			plugins: [starlightBlog()],
@@ -31,7 +32,7 @@ export default defineConfig({
 		}),
 		tailwind({ applyBaseStyles: false }),
 	],
-	site: 'https://odin-initiative.github.io/collaborative-sparks-website', // Replace with your GitHub repo URL
+	
 	output: 'static',  // Ensure it builds static assets
 });
 
