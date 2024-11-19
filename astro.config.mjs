@@ -34,7 +34,7 @@ export default defineConfig({
 		}),
 		tailwind({ applyBaseStyles: false }),
 	],
-	
+
 	output: 'static',  // Ensure it builds static assets
 });
 

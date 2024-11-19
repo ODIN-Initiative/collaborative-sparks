@@ -1,4 +1,8 @@
-# Starlight Starter Kit: Tailwind with the Starlight-blog integration
+# Collaborative Sparks website repo
+This is an ODIN initiative website.  Feel free to make an issue or reach out if you have questions.
+
+#Built with
+## Starlight Starter Kit: Tailwind with the Starlight-blog integration
 
 uses the Creative Commons Zero v1.0 Universal license
 
@@ -7,11 +11,14 @@ uses the Creative Commons Zero v1.0 Universal license
 ```
 npm create astro@latest -- --template starlight/tailwind
 ```
-
 Starlight Blog:
 https://github.com/HiDeoo/starlight-blog?tab=readme-ov-file 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+ 
+
+Tailwind CSS
+npx astro add tailwind
+https://docs.astro.build/en/guides/integrations-guide/tailwind/
 
 ## 🚀 Project Structure
 
@@ -39,6 +46,9 @@ Images can be added to `src/assets/` and embedded in Markdown with a relative li
 Static assets, like favicons, can be placed in the `public/` directory.
 
 ## 🧞 Commands
+
+Upgrade Astro and official integrations together
+npx @astrojs/upgrade
 
 All commands are run from the root of the project, from a terminal:
 
