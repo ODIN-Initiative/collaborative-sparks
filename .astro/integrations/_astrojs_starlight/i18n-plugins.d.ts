@@ -8,7 +8,6 @@ declare namespace StarlightApp {
 		'starlightBlog.post.draft': string;
 		'starlightBlog.post.featured': string;
 		'starlightBlog.post.tags': string;
-		'starlightBlog.rss.imageFallback': string;
 		'starlightBlog.sidebar.all': string;
 		'starlightBlog.sidebar.featured': string;
 		'starlightBlog.sidebar.recent': string;
