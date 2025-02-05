@@ -2,12 +2,14 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightBlog from 'starlight-blog';
+import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://odin-initiative.github.io/',
 	base: 'collaborative-sparks-website',
 	trailingSlash: "never",
+	vite: {    plugins: [tailwindcss()],  },
 	integrations: [
 		starlight({
 			plugins: [starlightBlog()],

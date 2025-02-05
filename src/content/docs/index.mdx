@@ -18,16 +18,18 @@ hero:
     file: ../../assets/CollaborativeSparks-1000.png
   actions:
     - text: Accountability Space
-      link: collaborative-sparks-website/sparks/accountability-space
+      link: sparks/accountability-space
       icon: right-arrow
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import "../../styles/global.css";
+
 
 ## Next steps
+<h1 class="text-3xl font-bold underline">  Hello world!</h1>
 
-<CardGrid>
-	
+<section>
   <Card title="What You’ll Find Here" icon="pencil">
 		<div>
   <p><b>Toolkit for Change:</b> A comprehensive collection of collaboration and governance tools, inspired by the best practices from around the world.</p>
@@ -62,5 +64,5 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
     <li><b>Accessibility for All:</b> Access our resources freely, embracing the spirit of sharing and collective growth.</li>
   </ul>
   	</Card>
-</CardGrid>
 
+</section>
