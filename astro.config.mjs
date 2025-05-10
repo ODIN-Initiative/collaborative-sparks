@@ -14,9 +14,10 @@ export default defineConfig({
 		starlight({
 			plugins: [starlightBlog()],
 			title: 'Collaborative Sparks',
-			social: {
-				github: 'https://github.com/CollaborativeSparks',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CollaborativeSparks'}
+			   
+			],
 			sidebar: [
 				{
 					label: 'Guides',
