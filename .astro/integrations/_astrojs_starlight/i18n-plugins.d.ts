@@ -4,6 +4,7 @@ declare namespace StarlightApp {
 		'starlightBlog.authors.count_other': string;
 		'starlightBlog.pagination.prev': string;
 		'starlightBlog.pagination.next': string;
+		'starlightBlog.post.date': string;
 		'starlightBlog.post.lastUpdate': string;
 		'starlightBlog.post.draft': string;
 		'starlightBlog.post.featured': string;
