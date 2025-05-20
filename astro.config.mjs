@@ -8,7 +8,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://odin-initiative.github.io/collaborative-sparks-website/',
-	base: '/collaborative-sparks-website/',
+	base: '/collaborative-sparks-website',
 	trailingSlash: "always",
 	//vite: {    plugins: [],  },
 	vite: {    plugins: [tailwindcss()],  },
