@@ -17,7 +17,8 @@ export default defineConfig({
 			//plugins: [starlightBlog()],
 			title: 'Collaborative Sparks',
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CollaborativeSparks'}
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CollaborativeSparks'},
+				{ icon: 'external', label: 'ODIN', href: 'https://www.odin.eco/'}
 			   
 			],
 			sidebar: [
