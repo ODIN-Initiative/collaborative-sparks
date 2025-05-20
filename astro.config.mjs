@@ -25,6 +25,16 @@ export default defineConfig({
 					label: 'Guides',
 					autogenerate: { directory: 'sparks' },
 				},
+				{ 
+					label: 'Links',
+					items: [ 
+						{
+							label: 'ODIN website',
+							link: 'https://odin.eco'
+						},
+
+					]
+				},
 				//{ label: 'Resource Article Blog', link: '/blog/' },
 			],
 			customCss: [],
