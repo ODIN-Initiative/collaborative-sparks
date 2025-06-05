@@ -1,8 +1,13 @@
-# The Conceptual Foundations of Collaboration Are Actionable — and Powerful
+---
+title: Conceptual Foundations of Collaboration
+date: 2025-06-05
+---
+
+### The Conceptual Foundations of Collaboration Are Actionable — and Powerful
 
 In today’s fast-evolving world, collaboration is more than just working together—it’s the engine of innovation, resilience, and shared success. But what underlies effective collaboration? How do decentralized teams and organizations move beyond meetings and good intentions to truly thrive?
 
-The answer lies in deep, conceptual foundations—foundations that aren’t abstract or theoretical, but highly actionable and powerful. Drawing on eight essential patterns of collaboration, we can understand how to cultivate the conditions that make collective work not just possible, but vibrant and productive.
+The answer lies in deep, conceptual foundations—foundations that aren’t abstract or theoretical, but highly actionable and powerful. Drawing on eight essential patterns of collaboration, we can understand how to cultivate the conditions that make collective work not just possible, but vibrant and productive.  
 
 ---
 
