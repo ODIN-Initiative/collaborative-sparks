@@ -26,6 +26,14 @@ export default defineConfig({
 					label: 'Guides',
 					autogenerate: { directory: 'sparks' },
 				},
+				{
+					label: 'Blog',
+					autogenerate: { directory: 'blog' },
+				},
+				{
+					label: 'Patterns',
+					autogenerate: { directory: 'patterns' },
+				},
 				{ 
 					label: 'Links',
 					items: [ 
