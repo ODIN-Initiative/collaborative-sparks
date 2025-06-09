@@ -1,6 +1,10 @@
 ---
 title: Collaborative Awareness
 date: 2025-06-05
+cover:
+  alt: Awareness as a visual metaphor of a flock of birds, sensing continuously, ready to adjust at all times
+  image: https://github.com/ODIN-Initiative/collaborative-sparks-website/blob/main/src/assets/Birds_awareness.png
+---
 ---
 
 ### Collaborative Awareness ***
