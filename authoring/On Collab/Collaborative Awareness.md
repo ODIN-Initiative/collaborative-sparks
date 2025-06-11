@@ -1,12 +1,11 @@
 ---
 title: Collaborative Awareness
 date: 2025-06-05
-coverconfig: https://github.com/ODIN-Initiative/collaborative-sparks-website/blob/main/src/assets/Birds_awareness.png
+
 ---
+![[Birds_awareness.png]]
 
 ### Collaborative Awareness ***
-
-Image
 
 In collaborative environments—especially those that are cross-functional, remote, or rapidly evolving—people must work together across differences in roles, knowledge, pace, and expectations. Teams are often made up of individuals with overlapping responsibilities, loosely coupled workflows, and varying degrees of visibility into the work or mindset of others. 
 

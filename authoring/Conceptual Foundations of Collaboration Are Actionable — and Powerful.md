@@ -13,7 +13,7 @@ The answer lies in deep, conceptual foundations—foundations that aren’t abst
 
 #### 1. Awareness: Seeing the System and Ourselves Clearly
 
-Collaboration begins with **awareness**—the conscious understanding of what’s happening both within ourselves and in the collective. Without this, teams operate in the dark, missing cues, blind spots, and emerging tensions. Awareness creates the shared situational understanding that enables timely, aligned action.
+![[Birds_awareness.png|200]]Collaboration begins with **awareness**—the conscious understanding of what’s happening both within ourselves and in the collective. Without this, teams operate in the dark, missing cues, blind spots, and emerging tensions. Awareness creates the shared situational understanding that enables timely, aligned action.
 
 ---
 
@@ -24,7 +24,7 @@ While awareness reveals the landscape, **motivation** fuels the journey. At the 
 ---
 
 #### 3. Self-Synchronization: Harmonizing Without Central Control
-
+![[jazzensemble_selfsynchronization.png]]
 In decentralized systems, waiting for orders is neither feasible nor efficient. **Self-synchronization** empowers individuals and teams to align their rhythms and actions organically, responding to shared signals and emergent needs. This pattern reduces friction and accelerates coordinated progress.
 
 ---

@@ -4,7 +4,7 @@ date: 2025-06-09
 ---
 
 ### Collaborative Motivation ***
-
+![[campfire_Motivation.png]]
 In decentralized organizations, teams are encouraged to self-organize and make decisions quickly. However, simply distributing authority does not guarantee coherent or energized action. Without a shared sense of purpose and motivation at the group level, autonomy can drift into disconnection or inaction.  **How do we prevent this drift, while still enabling freedom of choice and action?**
 
 ***
