@@ -14,7 +14,7 @@ This activity starts with the essential problem that drives you to make a change
 
 By establishing clarity about what responsibilities are reserved by constraint, and which are being provided outside this domain (for example, by a delegator).
 
-### Step 3: Success Factors
+## Step 3: Success Factors
 
 Responsibilities, deliverables and needed skills are a few important types of success factors.  By describing expectations of these kinds, people working in, needing help from, or collaborating with your group or role can be really clear about what to expect and what is expected.  
 
