@@ -3,6 +3,10 @@ dist/
 # generated types
 .astro/
 
+# for obsidion:
+./src/assets/o/
+./src/content/docs/o/
+./authoring/.obsidian/workspace.json
 # dependencies
 node_modules/
 
