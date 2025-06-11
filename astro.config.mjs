@@ -56,7 +56,7 @@ export default defineConfig({
                 },
                 //{ label: 'Resource Article Blog', link: '/blog/' },
             ],
-            customCss: [],
+            customCss: ["./src/styles/global.css"],
         }),
     ],
 
