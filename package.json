@@ -10,6 +10,11 @@
     "astro": "astro",
     "deploy": "astro build && gh-pages -d dist"
   },
+  "prettier": {
+    "printWidth": 120,
+    "tabWidth": 4,
+    "useTabs": false    
+  },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/starlight": "^0.34.3",
