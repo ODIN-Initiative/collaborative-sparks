@@ -13,13 +13,13 @@
   "prettier": {
     "printWidth": 120,
     "tabWidth": 4,
-    "useTabs": false    
+    "useTabs": false
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.34.3",
+    "@astrojs/starlight": "^0.34.4",
     "@tailwindcss/vite": "^4.0.3",
-    "astro": "^5.8.0",
+    "astro": "^5.10.1",
     "postcss": "^8.5.1",
     "sharp": "^0.32.5",
     "starlight-blog": "^0.23.2",
