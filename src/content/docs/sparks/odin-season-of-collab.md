@@ -20,7 +20,7 @@ Put our *teal‑style* governance, collective skills, and diverse forms of capit
 | **Collaborative Sparks website**         | Publish a knowledge hub for self‑management & collaboration patterns |
 | **Self‑Management & Collaboration blog** | Launch and seed first articles                                       |
 | **Tokenomics / incentive prototype**     | Test small‑scale reward mechanics on Cardano pre‑prod                |
-| **Other suggestions welcome**            | Propose during Sprint Planning                                       |
+| **Other suggestions welcome**            | Propose during ODIN General meeting on Monday                                       |
 
 *(Frame your idea via the `Proposal` template.)*
 
