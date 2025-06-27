@@ -6,7 +6,9 @@ dist/
 # for obsidion:
 src/assets/o/
 src/content/docs/o/
-authoring/.obsidian/workspace.json
+authoring/.obsidian/
+
+
 
 # dependencies
 node_modules/
