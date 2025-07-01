@@ -1,11 +1,10 @@
 ---
-title: "📍 What is a Map of Content (MoC)?"
+title: "What is a Map of Content (MoC)?"
 tags: [MoC, knowledge management, digital garden, PKM]
 created: 2025-06-27
-status: draft
+draft: true
 ---
 
-# 📍 What is a Map of Content (MoC)?
 *And why it still matters in the age of search*
 
 If you’ve ever gotten lost in your own notes or struggled to find that one key document buried in a sea of files, you already know the tension that **Maps of Content (MoCs)** are meant to resolve.
