@@ -3,6 +3,10 @@ title: Odin Season of Collaboration 2025 🚀
 description: Let’s learn fast, build useful things, and have some fun!
 ---
 *June → August 2025  ·  Short, focused, and fun*
+![alt text](../../../assets/ODIN-SoC-infographic.png)
+:::tip
+Join us on the [ODIN Discord](https://discord.gg/8qXvqH9vG4) and complete the [ODIN Season of Collaboration 2025 course on Andamio](https://app.andamio.io/course/4c9db78cd0c827569a9660ecd9fd0f8687ca3f762a97ec685519548c/101/lesson/1)
+:::
 
 ---
 ## Why (Purpose)
@@ -32,6 +36,8 @@ Put our *teal‑style* governance, collective skills, and diverse forms of capit
 | **Discord**                     | Daily text stand-ups and threaded discussions (quick questions, nudges)                         |
 | **Google Meet**                 | Two short synchronous meetings each week (Monday kickoff · Friday demo/retro)                   |
 | **Google Gemini** _(notetaker)_ | Auto-captures Meet transcripts and action items; notes are dropped into the shared Google Drive |
+
+
 
 :::note
 Flow in a sentence: Google Docs captures the narrative; Discord provides real-time touch points; Google Meet + Gemini handle the synchronous moments and clean notes.
