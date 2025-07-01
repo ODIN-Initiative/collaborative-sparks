@@ -46,7 +46,7 @@ This project emerged during the **Season of Collaboration**, a 3-month experimen
 
 * [Obsidian](https://obsidian.md/) – local-first Markdown authoring (optional)
 
----
+
 
 ## **🚀 Quick Start**
 
@@ -65,7 +65,7 @@ npm install
 npm start
 ```
 
----
+
 
 ## **📚 Suggested Topics for Contribution**
 
@@ -99,12 +99,12 @@ We’re experimenting with workflows that link **Obsidian** directly to this sit
 
 * [Obsidian on Windows via WSL](https://matthew-field.ca/2024/08/09/installing-obsidian-on-wsl-with-a-windows-gui-easy-setup/)
 
----
+
 
 ## **🤝 License**
 
 [MIT](https://chatgpt.com/c/LICENSE)
 
 ---
-[!info]
+
 Let us spark new ways of working — together.
