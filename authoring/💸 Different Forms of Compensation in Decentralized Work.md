@@ -1,5 +1,5 @@
 ---
-title: 💸 Different Forms of Compensation in Decentralized Work
+title: Different Forms of Compensation in Decentralized Work
 tags:
   - compensation
   - decentralized
