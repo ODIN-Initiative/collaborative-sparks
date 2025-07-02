@@ -39,20 +39,26 @@ export default defineConfig({
                 {
                     label: "Latest News",
                     autogenerate: { directory: "sparks" },
+                    collapsed: true
                 },
-                {
-                    label: "Blog",
-                    autogenerate: { directory: "content/docs/o/_Blog" },
-                },
+                // {
+                //     label: "Blog",
+                //     autogenerate: { directory: "content/docs/o/_Blog" },
+                //     collapsed: true
+                // },
                 obsidianSidebarGroup,
                 {
                     label: "Links",
                     items: [
                         {
                             label: "ODIN website",
-                            link: "https://odin.eco",
+                            link: "https://odin.eco",},
+                            {
+                            label: "Discord",
+                            link: "https://discord.gg/8qXvqH9vG4"
                         },
                     ],
+                    collapsed: true
                 },
                 //{ label: 'Resource Article Blog', link: '/blog/' },
             ],
