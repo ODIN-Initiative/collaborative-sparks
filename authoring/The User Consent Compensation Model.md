@@ -1,8 +1,8 @@
 ---
 title: "🧾 The User Consent Compensation Model"
 tags: [compensation, decentralized work, user-led funding, governance, consent decision-making]
-created: 2025-06-27
-status: draft
+date: 2025-06-27
+draft: false
 ---
 
 # 🧾 The User Consent Compensation Model  

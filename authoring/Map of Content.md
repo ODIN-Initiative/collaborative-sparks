@@ -1,8 +1,8 @@
 ---
 title: "What is a Map of Content (MoC)?"
 tags: [MoC, knowledge management, digital garden, PKM]
-created: 2025-06-27
-draft: true
+date: 2025-06-27
+draft: false
 ---
 
 *And why it still matters in the age of search*
