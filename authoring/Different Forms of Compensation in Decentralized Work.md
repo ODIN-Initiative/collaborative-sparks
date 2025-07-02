@@ -1,5 +1,5 @@
 ---
-title: Different Forms of Compensation in Decentralized Work
+title: 💸 Different Forms of Compensation in Decentralized Work
 date: 2025-06-27
 draft: false
 ---
