@@ -30,8 +30,8 @@ export default defineConfig({
                     // ignore: ["Blog"],
                     sidebar: {
                         label: "Guides",
-                        collapsed: false,
-                        collapsedFolders: false,
+                        collapsed: true,
+                        collapsedFolders: true,
                     }
                 }),
             ],
