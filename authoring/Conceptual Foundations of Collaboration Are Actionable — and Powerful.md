@@ -1,6 +1,7 @@
 ---
 title: Conceptual Foundations of Collaboration
 date: 2025-06-05
+slug: collab-foundations
 ---
 
 ## The Conceptual Foundations of Collaboration Are Actionable — and Powerful

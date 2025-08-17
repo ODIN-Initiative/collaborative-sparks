@@ -1,10 +1,10 @@
 ---
-title: 💸 Different Forms of Compensation in Decentralized Work
+title: Different Forms of Compensation in Decentralized Work
 date: 2025-06-27
 draft: false
+slug: decentralized-compensation
 ---
-
-# 💸 Different Forms of Compensation in Decentralized Work
+# 💸 
 
 In a decentralized workplace, how we get paid can look very different from the familiar weekly paycheck or hourly rate. As more communities experiment with open collaboration, new models for compensation are emerging — and each has tradeoffs.
 
@@ -14,7 +14,7 @@ Some are about speed and simplicity. Others aim to be more human, relational, or
 
 ## 🪙 1. The Gig or Bounty Model
 
-This model is straightforward: a task has a posted price, you complete it, you get paid. Platforms like Dwork or Ondomio use this format.
+This model is straightforward: a task has a posted price, you complete it, you get paid. Platforms like Dwork or Andamio use this format.
 
 **Why it works**:
 - You know what you're getting into.
@@ -93,6 +93,35 @@ Simple and familiar: you work a set number of hours and get paid a pre-negotiate
 **Limitations**:
 - Doesn’t always reflect real value.
 - Can feel mechanical or extractive.
+
+## 👏 7\. Give It Away
+
+A fractal distribution model where everyone decides independently how to distribute funds for that period, and the collective result is the sum of all individual distributions. 
+
+**How to play:**
+
+- every week everyone gets shares of the pot  
+  -  Evenly distributed or a reputation weighted model (becomes like [Potlatch](https://en.wikipedia.org/wiki/Potlatch)) or whatever makes sense. Start with even distribution.  
+  - This could be direct shares of the treasury in ADA or tokens to be redeemed later.   
+    - A fun system could be to use “respect” tokens or “love” tokens as the shares, or just points people can distribute to keep it simple.  
+- People engage in a round of sharing to recognize what they saw this period to help surface contributions and value. Harvesters can have a special role here, but anyone can contribute.  
+- **No one can keep their shares, they must give them away.**  
+- People decide who to give their shares to based on their own criteria \- did this person do a lot? Help them personally? Have a need for more resources? Make them laugh? Any reasons at all are okay here to allow for emergence.  
+- People who receive shares then exchange them for their share of the weekly treasury allotment.  
+- Allotment is transparent, but everyone should allot their shares privately before the results are revealed to avoid mutual back scratching or feelings of obligation because of how other’s distributed in this round.
+
+**Why it works**:
+
+- Each person gets to decide how to split their part of the treasury so you get a representation of how to split the pot that is composed of diverse opinions.  
+- It’s pretty low stress to give money to people based on what you think is fair.  
+- Can take into account many different factors for deciding, no fixed rules.
+
+**Limitations**:
+
+- Requires trust that the rest of the group will account for your own contributions since you have no control over how much you get  
+- Can favor those with higher levels of interpersonal or influencing skills due to human bias for recognizing charisma. (maybe? This is just a conjecture and should be part of the experiment to measure)
+
+Scaling it: This system can scale by having circles decide distributions between circles, then play the same game inside the circle once it is clear how much individual circles will receive for distribution from other circles. Start at the highest circle groupings and then work down to the smaller circles of trust if the organization is large.
 
 ---
 
