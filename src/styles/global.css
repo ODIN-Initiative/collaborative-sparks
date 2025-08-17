@@ -9,8 +9,13 @@ body {
   b, strong {
     font-weight: bold;
   }
+  html[data-theme="dark"] main a {
+    background-color: #444444;
+    padding: 1px 3px;
+    border-radius: 3px;
+  }
   main a {
-    background-color: #272727;
+    background-color: #cccccc;
     padding: 1px 3px;
     border-radius: 3px;
   }
