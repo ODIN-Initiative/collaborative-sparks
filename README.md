@@ -103,8 +103,7 @@ We’re experimenting with workflows that link **Obsidian** directly to this sit
 
 ## **🤝 License**
 
-[MIT](https://chatgpt.com/c/LICENSE)
-
+CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
 ---
 
 Let us spark new ways of working — together.
