@@ -1,3 +1,6 @@
+---
+slug: signs-of-cardano-pains
+---
 ### Where Pains Show Themselves (with evidence)
 
 As a network of individuals, each participating in networks of innovation and focused on practical dynamics of impact and effectiveness, ODIN continues to observe and contribute in our own ways to the development of healthy governance at all levels, from individual skills to overall culture, from macro-level direction down to micro-interactions.

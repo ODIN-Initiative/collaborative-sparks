@@ -1,3 +1,6 @@
+---
+slug: odin-right-stuff
+---
 
 ## Ingredients for Transformative Impact
 

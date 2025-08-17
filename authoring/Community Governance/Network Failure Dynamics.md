@@ -1,3 +1,6 @@
+---
+slug: network-failure-dynamics
+---
 ### Why Collaborations Fail to Deliver Transformative Change
 
 In many networks and collaborative efforts — especially those aspiring toward transformative change — there’s a recurring pattern of structural fragility and relational erosion.
