@@ -18,8 +18,36 @@ export default defineConfig({
         starlight({
             //plugins: [starlightBlog()],
             title: "Collaborative Sparks",
+            head: [
+                {
+                    tag: "link",
+                    attrs: {
+                        rel: "preconnect",
+                        href: "https://fonts.googleapis.com",
+                    },
+                },
+                {
+                    tag: "link",
+                    attrs: {
+                        rel: "preconnect",
+                        href: "https://fonts.gstatic.com",
+                        crossorigin: true,
+                    },
+                },
+                {
+                    tag: "link",
+                    attrs: {
+                        rel: "stylesheet",
+                        href: "https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap",
+                    },
+                },
+            ],
             social: [
-                { icon: "github", label: "GitHub", href: "https://github.com/ODIN-Initiative/collaborative-sparks-website" },
+                {
+                    icon: "github",
+                    label: "GitHub",
+                    href: "https://github.com/ODIN-Initiative/collaborative-sparks-website",
+                },
                 { icon: "external", label: "ODIN", href: "https://www.odin.eco/" },
             ],
             plugins: [
@@ -32,14 +60,15 @@ export default defineConfig({
                         label: "Guides",
                         collapsed: true,
                         collapsedFolders: true,
-                    }
+                    },
                 }),
             ],
             sidebar: [
                 {
                     label: "Latest News",
                     autogenerate: { directory: "sparks" },
-                    collapsed: true
+                    collapsed: true,
+                    
                 },
                 // {
                 //     label: "Blog",
@@ -52,13 +81,14 @@ export default defineConfig({
                     items: [
                         {
                             label: "ODIN website",
-                            link: "https://odin.eco",},
-                            {
+                            link: "https://odin.eco",
+                        },
+                        {
                             label: "Discord",
-                            link: "https://discord.gg/8qXvqH9vG4"
+                            link: "https://discord.gg/8qXvqH9vG4",
                         },
                     ],
-                    collapsed: true
+                    collapsed: true,
                 },
                 //{ label: 'Resource Article Blog', link: '/blog/' },
             ],
