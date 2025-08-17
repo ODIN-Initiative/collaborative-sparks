@@ -9,7 +9,7 @@ body {
   b, strong {
     font-weight: bold;
   }
-  a {
+  main a {
     background-color: #272727;
     padding: 1px 3px;
     border-radius: 3px;
