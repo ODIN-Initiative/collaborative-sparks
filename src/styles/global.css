@@ -1,42 +1,77 @@
 @import "tailwindcss";
 
 body {
-  margin: 1rem;
-  padding: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+@layer base {
+  b, strong {
+    font-weight: bold;
+  }
+  main a {
+    background-color: #272727;
+    padding: 1px 3px;
+    border-radius: 3px;
+  }
+  /* starlight-toc * {
+    font-size: 0.8rem;
+  } */
+  body {
+      --sl-sidebar-pad-x: 0.5rem;
+  }
+  .right-sidebar-container {
+      --sl-sidebar-width: 14rem;        
+      --sl-sidebar-pad-x: -0.2rem;
+  }
+  .sidebar-pane .sidebar-content {
+      --sl-sidebar-width: 16rem;        
+      font-size: 0.6rem;
+  }
 }
 
 :root {
-  --sl-nav-height: 4rem;
-  --sl-nav-pad-x: 1.5rem;
-  --sl-text-5xl: 1.7rem;
-  --sl-text-4xl: 1.5rem;
-  --sl-text-3xl: 1.3rem;
-  --sl-text-2xl: 1.1rem;
-  --sl-text-xl: 1.0rem;
-  --sl-text-lg: 0.9rem;
-  --sl-content-width: 50rem;
+    --sl-nav-height: 4rem;
+    --sl-nav-pad-x: 1.5rem;
+    --sl-text-5xl: 1.3rem;
+    --sl-text-4xl: 1.2rem;
+    --sl-text-3xl: 1.1rem;
+    --sl-text-2xl: 1.0rem;
+    --sl-text-xl: 0.9rem;
+    --sl-text-lg: 0.8rem;
+    --sl-content-width: 50rem;
 }
 
 @media (min-width: 50rem) {
-  :root {
-    --sl-nav-height: 4rem;
-    --sl-nav-pad-x: 1.5rem;
-    --sl-text-5xl: 1.7rem;
-    --sl-text-4xl: 1.5rem;
-    --sl-text-3xl: 1.3rem;
-    --sl-text-2xl: 1.1rem;
-    --sl-text-xl: 1.0rem;
-    --sl-text-lg: 0.9rem;
-  }
+    :root {
+        --sl-nav-height: 4rem;
+        --sl-nav-pad-x: 1.5rem;
+        --sl-text-5xl: 1.3rem;
+        --sl-text-4xl: 1.2rem;
+        --sl-text-3xl: 1.1rem;
+        --sl-text-2xl: 1.0rem;
+        --sl-text-xl: 0.9rem;
+        --sl-text-lg: 0.8rem;
+    }
 }
 
 @media (min-width: 75rem) {
-  :root {
-    --sl-content-width: 60rem;
-  }
+    :root {
+        --sl-content-width: 60rem;
+    }
 }
 
-.sl-markdown-content ul, .sl-markdown-content ol {
-  list-style-type: disc;
-  margin-left: 1.5em;
+.sl-markdown-content ul,
+.sl-markdown-content ol {
+    list-style-type: disc;
+    margin-left: 1.5em;
 }
+
+.sl-container {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem
+}
+
