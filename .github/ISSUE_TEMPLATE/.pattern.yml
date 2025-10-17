@@ -1,7 +1,7 @@
 name: "New Pattern Card"
 description: "Add a new Alexandrian pattern"
 title: "Pattern: "
-label: ["pattern"]
+labels: ["pattern"]
 body:
   - type: input
     id: driver
@@ -13,4 +13,6 @@ body:
       label: Context
   - type: textarea
     id: problem
-      ...
+    attributes:
+      label: Problem
+
