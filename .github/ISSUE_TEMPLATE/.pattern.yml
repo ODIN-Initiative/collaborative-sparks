@@ -15,4 +15,20 @@ body:
     id: problem
     attributes:
       label: Problem
+  - type: textarea
+    id: forces
+    attributes:
+      label: Forces
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+  - type: textarea
+    id: resulting_context
+    attributes:
+      label: Resulting Context
+  - type: textarea
+    id: related_patterns
+    attributes:
+      label: Related Patterns
 
